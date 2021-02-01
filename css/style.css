@@ -1,0 +1,42 @@
+/* Google Fonts Imports */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap');
+
+/* Components Imports */
+
+@import url("components/banner.css");
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/cards.css");
+
+/* Fonts and Colors */
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+	background-color: #C0C0C0;
+}
+h1 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bolder;
+}
+h2 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: lighter;
+}
+h3 {
+	font-size: 14px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600px;
+	color: #FFFFFF
+}
+h4 {
+	font-size: 14px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: lighter;
+	color: #e5e4e2;
+}
+a {
+	text-decoration: none;
+}

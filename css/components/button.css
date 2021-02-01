@@ -1,0 +1,18 @@
+.btn-transparent {
+	color: white;
+    align-items: center;
+    padding: 5px 16px;
+    border-radius: 64px;
+    transition: all .3s ease;
+    border: 2px solid #fff;
+}
+.btn-transparent:hover {
+	background-color: rgba(255, 255, 255, 0.2);
+}
+.btn-normal {
+	color: black;
+	transition: all .3s ease;
+}
+.btn-normal:hover {
+	color: gray;
+}
